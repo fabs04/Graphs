@@ -332,5 +332,5 @@ ASALocalRun/
 *.uxf
 
 # Auto-generated
-/.vs/
-/Graphs/obj/
+/.vs/**/*
+/Graphs/obj/**/*
