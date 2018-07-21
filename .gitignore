@@ -330,3 +330,8 @@ ASALocalRun/
 
 # UML
 *.uxf
+
+# Auto-generated
+/.vs/Graphs/v15/Server/sqlite3/storage.ide-shm
+/.vs/Graphs/v15/Server/sqlite3/storage.ide-wal
+/.vs/Graphs/v15/.suo
