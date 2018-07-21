@@ -106,6 +106,15 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AdjacencyList.cs" />
+    <Compile Include="AdjacencyMatrix.cs" />
+    <Compile Include="Edge.cs" />
+    <Compile Include="Graph.cs" />
+    <Compile Include="IEdge.cs" />
+    <Compile Include="IGraph.cs" />
+    <Compile Include="GraphData.cs" />
+    <Compile Include="INode.cs" />
+    <Compile Include="Node.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Graphs.rd.xml" />
   </ItemGroup>
